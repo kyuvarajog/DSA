@@ -23,7 +23,7 @@ void display(){
 		for(i=top;i>=0;i--){
 			printf("%d, ", Stack[i]);
 		}
-		printf("} ");
+		printf(";
 	}
 }
 int main(){
